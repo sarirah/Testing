@@ -1,9 +1,8 @@
-
 public class SumArray {
 
 	int[] myArray = new int[3];
 	
-
+	//Let's add some things together!
 
 	
 	
